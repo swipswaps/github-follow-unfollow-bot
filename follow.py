@@ -17,7 +17,7 @@ import time # Get time and sleep
 import getpass # Get input of passowrd not visible while entering
 
 # Enter your Username and Password here to login
-username = input('Enter you Github Username to start session: ')
+username = input('Enter your Github Username to start session: ')
 password = getpass.getpass('And password to start session: ')
 
 
